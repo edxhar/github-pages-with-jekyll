@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I would like to talk about technical skills and some themantical topics related to the application
